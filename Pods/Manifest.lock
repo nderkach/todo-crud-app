@@ -1,0 +1,32 @@
+PODS:
+  - Alamofire (4.5.1)
+  - JWTDecode (2.1.1)
+  - KeychainAccess (3.1.0)
+  - OpenSans (1.0.3)
+  - Siesta (1.3.0):
+    - Siesta/Core (= 1.3.0)
+  - Siesta/Alamofire (1.3.0):
+    - Alamofire (> 4.1)
+    - Siesta/Core
+  - Siesta/Core (1.3.0)
+  - SnapKit (4.0.0)
+
+DEPENDENCIES:
+  - JWTDecode (~> 2.1)
+  - KeychainAccess
+  - OpenSans
+  - Siesta (~> 1.0)
+  - Siesta/Alamofire (~> 1.0)
+  - SnapKit (~> 4.0.0)
+
+SPEC CHECKSUMS:
+  Alamofire: 2d95912bf4c34f164fdfc335872e8c312acaea4a
+  JWTDecode: 83e8b381aafe27158d9f692cbdca2b12d61d460c
+  KeychainAccess: 94c5540b32eabf7bc32bfb976a268e8ea05fd6da
+  OpenSans: 33078846463eae780aa5f82986b51cce085f970d
+  Siesta: 90cb487ebcabdc1ee0201842f027cd37df2532be
+  SnapKit: a42d492c16e80209130a3379f73596c3454b7694
+
+PODFILE CHECKSUM: 6c9b0706e50ca3c53eac0eec2d1a1cbf24e0fa90
+
+COCOAPODS: 1.3.1

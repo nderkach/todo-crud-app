@@ -1,0 +1,6 @@
+framework module Pods_CMXUITests {
+  umbrella header "Pods-CMXUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
